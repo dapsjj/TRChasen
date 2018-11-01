@@ -26,3 +26,6 @@ if __name__ == '__main__':
     for line in sys.stdin:
         for cha in chasen(line):
             print (cha)
+
+            
+#echo "これはてすとです。" | python3 test_chasen.py
